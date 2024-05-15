@@ -1,0 +1,3 @@
+[submodule "intro-skipper"]
+	path = intro-skipper
+	url = https://github.com/jumoog/intro-skipper.git
