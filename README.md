@@ -1,1 +1,1 @@
-# Resis Jellyfin repo
+# Resis Jellyfin Repo
